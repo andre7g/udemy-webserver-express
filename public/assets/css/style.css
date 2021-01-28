@@ -1,0 +1,20 @@
+footer {
+    background-color: #353a3f;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.jumbotron {
+    background-color: #bcbfc2;
+    color: black;
+    width: 100%;
+    position: fixed;
+}
+
+.content {
+    padding: 15px;
+}
